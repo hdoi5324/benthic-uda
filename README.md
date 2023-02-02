@@ -59,12 +59,12 @@ For more information on neptune.ai logging, please refer to the website [here](h
 If using the dataset, please use this citation:
 
     @techreport{hdoig2023dataset,
-        title:{Dataset: Improved Benthic Classification from Different AUV Surveys with Unsupervised Domain Adaptation},
+        title:{Dataset: Application of SymmNet Unsupervised Domain Adaptation and Resolution Scaling for Improved Benthic Classification},
         author={Doig, Heather and Pizarro, Oscar and Williams, Stefan},
-        year={2022},
-        doi={10.17632/d2yn52n9c9.2},
+        year={2023},
+        doi={10.17632/d2yn52n9c9.3},
         publisher={Mendeley Data},
-        version={V2}
+        version={V3}
       }
 
 We would appreciate if you could cite this work as follows:
