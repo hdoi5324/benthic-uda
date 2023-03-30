@@ -1,7 +1,7 @@
 # Improved Benthic Classification using Resolution Scaling and SymmNet Unsupervised Domain Adaptation
-Code release for ICRA 23 paper "Application of SymmNet Unsupervised Domain Adaptation and Resolution Scaling for Improved Benthic Classification".  
+Code release for paper "Improved Benthic Classification using Resolution Scaling and SymmNet Unsupervised Domain Adaptation", accepted to ICRA 2023, London.
 
-[[Paper (pre-print)](https://arxiv.org/abs/2303.10960)] [[Code](https://github.com/hdoi5324/benthic-uda)] [[Dataset] (https://data.mendeley.com/datasets/d2yn52n9c9)]
+[[Paper (pre-print)](https://arxiv.org/abs/2303.10960)]     [[Code](https://github.com/hdoi5324/benthic-uda)]     [[Dataset](https://data.mendeley.com/datasets/d2yn52n9c9)]
 
 This code is based on the original SymmNet code from the paper  [[Paper](https://zpascal.net/cvpr2019/Zhang_Domain-Symmetric_Networks_for_Adversarial_Domain_Adaptation_CVPR_2019_paper.pdf)] [[Code](https://github.com/Gorilla-Lab-SCUT/MultiClassDA)]
 ![Pipeline for improved benthic classification](pipeline.png)
@@ -73,14 +73,15 @@ If using the dataset, please use this citation:
 
 We would appreciate if you could cite this work as follows:
 
-    @inproceedings{hdoig2023,
-      title={Preprint: Application of SymmNet Unsupervised Domain Adaptation and Resolution Scaling for Improved Benthic Classification},
+    @inproceedings{doig2023improved,
+      title={Preprint: Improved Benthic Classification using Resolution Scaling and SymmNet Unsupervised Domain Adaptation},
       author={Doig, Heather and Pizarro, Oscar and Williams, Stefan B.},
       booktitle={Proceedings of the International Conference on Robotics and Automation},
-      year={2023}
+      year={2023},
+      eprint={2303.10960},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
     }
-
-
 
 ## Contact
 For any queries or comments regarding this work, please contact Heather Doig by email (h.doig@acfr.usyd.edu.au)
