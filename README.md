@@ -60,19 +60,7 @@ To enable neptune logging, in the file `config/config.py`, set the following fla
 For more information on neptune.ai logging, please refer to the website [here](https://neptune.ai/).
 
 ## Citation
-If using the dataset, please use this citation:
-
-    @techreport{hdoig2023dataset,
-        title:{Dataset: Application of SymmNet Unsupervised Domain Adaptation and Resolution Scaling for Improved Benthic Classification},
-        author={Doig, Heather and Pizarro, Oscar and Williams, Stefan},
-        year={2023},
-        doi={10.17632/d2yn52n9c9.3},
-        publisher={Mendeley Data},
-        version={V3}
-      }
-
 We would appreciate if you could cite this work as follows:
-
     @inproceedings{doig2023improved,
       title={Preprint: Improved Benthic Classification using Resolution Scaling and SymmNet Unsupervised Domain Adaptation},
       author={Doig, Heather and Pizarro, Oscar and Williams, Stefan B.},
@@ -82,6 +70,19 @@ We would appreciate if you could cite this work as follows:
       archivePrefix={arXiv},
       primaryClass={cs.CV}
     }
+    
+If using the dataset, please use this citation:
+
+    @techreport{doig2023dataset,
+        title:{Dataset: Application of SymmNet Unsupervised Domain Adaptation and Resolution Scaling for Improved Benthic Classification},
+        author={Doig, Heather and Pizarro, Oscar and Williams, Stefan},
+        year={2023},
+        doi={10.17632/d2yn52n9c9.3},
+        publisher={Mendeley Data},
+        version={V3}
+      }
+
+
 
 ## Contact
 For any queries or comments regarding this work, please contact Heather Doig by email (h.doig@acfr.usyd.edu.au)
