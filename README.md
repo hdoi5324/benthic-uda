@@ -3,9 +3,9 @@ Code release for paper "Improved Benthic Classification using Resolution Scaling
 
 [[Paper (pre-print)](https://arxiv.org/abs/2303.10960)]     [[Code](https://github.com/hdoi5324/benthic-uda)]     [[Dataset](https://data.mendeley.com/datasets/d2yn52n9c9)]
 
-This code is based on the original SymmNet code from the paper  [[Paper](https://zpascal.net/cvpr2019/Zhang_Domain-Symmetric_Networks_for_Adversarial_Domain_Adaptation_CVPR_2019_paper.pdf)] [[Code](https://github.com/Gorilla-Lab-SCUT/MultiClassDA)]
 ![Pipeline for improved benthic classification](pipeline.png)
-The code uses the SymmNetV1_solver from the SymmNet code base.
+
+This code is based on the original SymmNet code from the paper  [[Paper](https://zpascal.net/cvpr2019/Zhang_Domain-Symmetric_Networks_for_Adversarial_Domain_Adaptation_CVPR_2019_paper.pdf)] [[Code](https://github.com/Gorilla-Lab-SCUT/MultiClassDA)].  The code uses the SymmNetV1_solver from the SymmNet code base.
 
 ### Installation
 
@@ -61,15 +61,16 @@ For more information on neptune.ai logging, please refer to the website [here](h
 
 ## Citation
 We would appreciate if you could cite this work as follows:
-    @inproceedings{doig2023improved,
-      title={Preprint: Improved Benthic Classification using Resolution Scaling and SymmNet Unsupervised Domain Adaptation},
-      author={Doig, Heather and Pizarro, Oscar and Williams, Stefan B.},
-      booktitle={Proceedings of the International Conference on Robotics and Automation},
-      year={2023},
-      eprint={2303.10960},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-    }
+
+      @inproceedings{doig2023improved,
+        title={Preprint: Improved Benthic Classification using Resolution Scaling and SymmNet Unsupervised Domain Adaptation},
+        author={Doig, Heather and Pizarro, Oscar and Williams, Stefan B.},
+        booktitle={Proceedings of the International Conference on Robotics and Automation},
+        year={2023},
+        eprint={2303.10960},
+        archivePrefix={arXiv},
+        primaryClass={cs.CV}
+      }
     
 If using the dataset, please use this citation:
 
