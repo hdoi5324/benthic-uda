@@ -1,7 +1,7 @@
 # Improved Benthic Classification using Resolution Scaling and SymmNet Unsupervised Domain Adaptation
 Code release for paper "Improved Benthic Classification using Resolution Scaling and SymmNet Unsupervised Domain Adaptation", accepted to ICRA 2023, London.
 
-[[Paper (pre-print)](https://arxiv.org/abs/2303.10960)]     [[Code](https://github.com/hdoi5324/benthic-uda)]     [[Dataset](https://data.mendeley.com/datasets/d2yn52n9c9)]
+[[Paper (pre-print)](https://arxiv.org/abs/2303.10960)]     [[Dataset](https://data.mendeley.com/datasets/d2yn52n9c9)]
 
 ![Pipeline for improved benthic classification](pipeline.png)
 
